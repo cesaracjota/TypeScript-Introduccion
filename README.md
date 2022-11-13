@@ -1,0 +1,5 @@
+# PROTECTO BASE PARA EMPEZAR CON TYPESCRIPT
+
+## Objetivo
+
+### Scripts
